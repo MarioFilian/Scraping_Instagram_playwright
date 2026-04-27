@@ -1,6 +1,6 @@
 # Instagram Web Scraper
 
-**Enlace al repositorio público (Git):** [https://github.com/MarioFilian/Scraping_Instagram_playwright.git]
+
 
 ## Descripción General
 Este proyecto consiste en un script de Python diseñado para extraer métricas de interacción (likes y comentarios) de las últimas publicaciones de una cuenta pública de Instagram. El desarrollo cumple con los requerimientos de realizar web scraping, analizar solicitudes y navegar la plataforma minimizando los bloqueos por parte de Instagram. 
