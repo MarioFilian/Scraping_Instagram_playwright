@@ -60,8 +60,8 @@ A continuación, se describen los pasos para que cualquier usuario pueda instala
 Abre una terminal en el directorio raíz del proyecto e instala los módulos de Python requeridos:
 
 ```bash
-# Instalar Playwright para la automatización y python-dotenv para el entorno
-pip install playwright python-dotenv
+# Instalar las dependencias rápidamente mediante el archivo requirements.txt
+pip install -r requirements.txt
 
 # Descargar e instalar los binarios del navegador Chromium requeridos por Playwright
 playwright install chromium
